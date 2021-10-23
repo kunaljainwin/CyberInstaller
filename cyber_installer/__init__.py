@@ -2,7 +2,9 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.live_render import LiveRender
 import sys
-import os, shutil
+import os 
+import shutil
+
 
 console = Console()
 
